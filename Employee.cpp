@@ -5,7 +5,7 @@ int main()
 {
 	Employee Zbyszek;
 	Zbyszek.SetAge(32);
-	Zbyszek.SetSalary(2137);
+	Zbyszek.SetSalary(2000);
 	Zbyszek.SetYearsOfService(7);
 	std::cout << "Zbyszek ma " << Zbyszek.GetAge() << " lat, pensje w wysokosci " << Zbyszek.GetSalary() << " i pracuje juz " << Zbyszek.GetYearsofService() << " lat!" << std::endl;
 	
