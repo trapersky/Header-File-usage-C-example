@@ -3,6 +3,8 @@
 
 int main()
 {
+	//All the methods set and get are imported from the header file, which is included above, under iostream
+	
 	Employee Zbyszek;
 	Zbyszek.SetAge(32);
 	Zbyszek.SetSalary(2000);
