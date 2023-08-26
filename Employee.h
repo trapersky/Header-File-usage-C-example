@@ -1,5 +1,7 @@
 #include <iostream>
 
+//The class Employee is defined in a header file, it is used in the cpp program by implementing it via #include 
+
 class Employee
 {
 	public:
